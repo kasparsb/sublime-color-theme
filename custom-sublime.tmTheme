@@ -77,7 +77,7 @@ methods: variable.function
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#494a59</string>
+        <string>#84af8a</string>
         <key>fontStyle</key>
         <string>regular</string>
       </dict>
@@ -97,7 +97,7 @@ methods: variable.function
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#494a59</string>
+        <string>#84af8a</string>
         <key>fontStyle</key>
         <string>regular</string>
       </dict>
