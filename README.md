@@ -1,3 +1,7 @@
+Install package
+Material Theme
+
+
 # sublime-color-theme
 My own sublime color theme
 
