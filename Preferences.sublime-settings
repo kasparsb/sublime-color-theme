@@ -3,7 +3,7 @@
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/Themes/custom-sublime.tmTheme",
+	"color_scheme": "Packages/User/custom-sublime.tmTheme",
 	"default_line_ending": "unix",
 	"font_face": "IBM Flux Mono",
 	"font_size": 10,
