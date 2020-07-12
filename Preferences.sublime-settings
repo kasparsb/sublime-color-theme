@@ -1,0 +1,23 @@
+{
+	"auto_complete": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Themes/custom-sublime.tmTheme",
+	"default_line_ending": "unix",
+	"font_face": "IBM Flux Mono",
+	"font_size": 10,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"show_encoding": true,
+	"show_git_status": false,
+	"show_line_endings": true,
+	"skin": "DA UI/Minimal",
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
+}
